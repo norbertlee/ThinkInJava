@@ -1,9 +1,11 @@
 package helloDate;
 import java.util.*;
 /**
- * Think in Java 中的第一个程序 Hello Date
+ * Think in Java 
+ * The first example program
+ * Hello Date
  * page 30
- * @author Norbert Lee
+ * @author Norbert Wiener Lee
  * @version 1.0
  *
  */
