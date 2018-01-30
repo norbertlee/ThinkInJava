@@ -16,7 +16,7 @@ public class helloDate {
 	 * @throws exceptions No exceptions thrown
 	 */
 	public static void main(String[] args) {
-		System.out.print("Hello, it's ");
+		System.out.println("Hello, it's ");
 		System.out.println(new Date());
 	}
 	/*
